@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>4097</string>
+		<key>number</key>
+		<string>200</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-08-02/1533199540734083200.jpg</string>
+		<key>price</key>
+		<string>8.70</string>
+		<key>title</key>
+		<string>限时促销 凯凤尔时尚家务手套 8807</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4094</string>
+		<key>number</key>
+		<string>150</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-08-02/1533198432056349300.jpg</string>
+		<key>price</key>
+		<string>12.30</string>
+		<key>title</key>
+		<string>限时促销凯凤尔接袖绒里手套 8829</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>149</string>
+		<key>number</key>
+		<string>96</string>
+		<key>pathname</key>
+		<string>/static/images/201709/source_img/149_G_1505935286235.JPG</string>
+		<key>price</key>
+		<string>12.60</string>
+		<key>title</key>
+		<string>限时促销 亲净海绵钢丝球 c-3618</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>656</string>
+		<key>number</key>
+		<string>60</string>
+		<key>pathname</key>
+		<string>/static/images/201801/source_img/656_G_1515374370055.jpg</string>
+		<key>price</key>
+		<string>15.60</string>
+		<key>title</key>
+		<string>限时促销 大鹏棉柔清洁巾 6片装（常年促销款） 3134 </string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>112</string>
+		<key>number</key>
+		<string>120</string>
+		<key>pathname</key>
+		<string>/static/images/201709/source_img/112_G_1505867378164.JPG</string>
+		<key>price</key>
+		<string>10.50</string>
+		<key>title</key>
+		<string>限时促销 亲净多彩洗碗棉（4PCS） C-3521</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>120</string>
+		<key>number</key>
+		<string>96</string>
+		<key>pathname</key>
+		<string>/static/images/201710/source_img/120_G_1507568829425.JPG</string>
+		<key>price</key>
+		<string>11.40</string>
+		<key>title</key>
+		<string>限时促销 亲净竹纤维海绵洗碗块（2pcs) C-3522 </string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>645</string>
+		<key>number</key>
+		<string>120</string>
+		<key>pathname</key>
+		<string>/static/images/201801/source_img/645_G_1515115621943.jpg</string>
+		<key>price</key>
+		<string>10.38</string>
+		<key>title</key>
+		<string>限时促销 大鹏手柄锅刷实惠装  3338</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>1876</string>
+		<key>number</key>
+		<string>200</string>
+		<key>pathname</key>
+		<string>/static/images/201804/source_img/1876_G_1524527182361.jpg</string>
+		<key>price</key>
+		<string>4.80</string>
+		<key>title</key>
+		<string>限时促销 忆家美一次性手套(赠送装) 1813</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>2607</string>
+		<key>number</key>
+		<string>300</string>
+		<key>pathname</key>
+		<string>/static/images/201712/source_img/2607_G_1513119286829.jpg</string>
+		<key>price</key>
+		<string>3.90</string>
+		<key>title</key>
+		<string>限时促销忆家美袋装木棒棉签（200支） 8821</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4758</string>
+		<key>number</key>
+		<string>80</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-10-19/1539915844327678500.jpg</string>
+		<key>price</key>
+		<string>14.25</string>
+		<key>title</key>
+		<string>限时促销 洁派座便器套暖垫王(剪毛绒）4006</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4759</string>
+		<key>number</key>
+		<string>60</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-10-19/1539916023164600400.jpg</string>
+		<key>price</key>
+		<string>21.33</string>
+		<key>title</key>
+		<string>限时促销 红瓦房座便器暖垫（U型）YC-0922</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4760</string>
+		<key>number</key>
+		<string>96</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-10-19/1539916289293465200.jpg</string>
+		<key>price</key>
+		<string>17.55</string>
+		<key>title</key>
+		<string>限时促销红瓦房布艺座便垫 YC-0581</string>
+	</dict>
+</array>
+</plist>

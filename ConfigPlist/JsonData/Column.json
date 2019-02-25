@@ -1,0 +1,211 @@
+{
+  "column": [
+    {
+      "id": "1",
+      "name": "厨房清洁"
+    },
+    {
+      "id": "29",
+      "name": "厨房配件"
+    },
+    {
+      "id": "79",
+      "name": "竹木制品"
+    },
+    {
+      "id": "108",
+      "name": "密胺制品"
+    },
+    {
+      "id": "121",
+      "name": "卫浴清洁"
+    },
+    {
+      "id": "143",
+      "name": "浴室用具"
+    },
+    {
+      "id": "155",
+      "name": "一次性用品"
+    },
+    {
+      "id": "177",
+      "name": "杯子系列"
+    },
+    {
+      "id": "199",
+      "name": "居家清洁"
+    },
+    {
+      "id": "244",
+      "name": "收纳整理"
+    },
+    {
+      "id": "264",
+      "name": "休闲用品"
+    },
+    {
+      "id": "284",
+      "name": "烧烤系列"
+    }
+  ],
+  "column_level2": [
+    {
+      "column_level3": [
+        {
+          "id": "3",
+          "name": "乳胶手套",
+          "pathname": "/static/uppic/works/2018-05-07/1525680222623984400.png"
+        },
+        {
+          "id": "4",
+          "name": "PVC手套",
+          "pathname": "/static/uppic/works/2018-05-07/1525681454596657200.png"
+        },
+        {
+          "id": "5",
+          "name": "保暖手套",
+          "pathname": "/static/uppic/works/2018-05-07/1525681633560524000.png"
+        },
+        {
+          "id": "6",
+          "name": "接袖手套",
+          "pathname": "/static/uppic/works/2018-05-07/1525681846513670500.png"
+        },
+        {
+          "id": "7",
+          "name": "超薄手套",
+          "pathname": "/static/uppic/works/2018-05-07/1525682006571252700.png"
+        }
+      ],
+      "id": "2",
+      "name": "家用手套"
+    },
+    {
+      "column_level3": [
+        {
+          "id": "9",
+          "name": "钢丝球",
+          "pathname": "/static/uppic/works/2018-05-07/1525682173025359900.png"
+        },
+        {
+          "id": "10",
+          "name": "纤维球",
+          "pathname": "/static/uppic/works/2018-05-08/1525738328160705300.png"
+        },
+        {
+          "id": "11",
+          "name": "球刷组合",
+          "pathname": "/static/uppic/works/2018-05-08/1525738254240306400.png"
+        }
+      ],
+      "id": "8",
+      "name": "清洁球"
+    },
+    {
+      "column_level3": [
+        {
+          "id": "13",
+          "name": "超细纤维抹布",
+          "pathname": "/static/uppic/works/2018-05-08/1525738478848721900.png"
+        },
+        {
+          "id": "14",
+          "name": "竹纤维抹布",
+          "pathname": "/static/uppic/works/2018-05-08/1525739235817903400.png"
+        },
+        {
+          "id": "15",
+          "name": "洗碗巾",
+          "pathname": "/static/uppic/works/2018-05-08/1525739703272574400.png"
+        },
+        {
+          "id": "2375",
+          "name": "复合抹布",
+          "pathname": "/static/uppic/works/2018-07-25/1532483622149956400.jpg"
+        }
+      ],
+      "id": "12",
+      "name": "清洁抹布"
+    },
+    {
+      "column_level3": [
+        {
+          "id": "17",
+          "name": "海绵块",
+          "pathname": "/static/uppic/works/2018-05-08/1525740719901287900.png"
+        },
+        {
+          "id": "18",
+          "name": "百洁布",
+          "pathname": "/static/uppic/works/2018-05-08/1525741634632818900.png"
+        },
+        {
+          "id": "19",
+          "name": "立可擦",
+          "pathname": "/static/uppic/works/2018-05-08/1525742083135763900.png"
+        }
+      ],
+      "id": "16",
+      "name": "清洁块"
+    },
+    {
+      "column_level3": [
+        {
+          "id": "21",
+          "name": "木柄刷",
+          "pathname": "/static/uppic/works/2018-05-08/1525743090752945600.png"
+        },
+        {
+          "id": "22",
+          "name": "塑柄刷",
+          "pathname": "/static/uppic/works/2018-05-08/1525748129550757800.png"
+        },
+        {
+          "id": "23",
+          "name": "椰棕刷",
+          "pathname": "/static/uppic/works/2018-05-08/1525748280217751500.png"
+        }
+      ],
+      "id": "20",
+      "name": "洗锅刷"
+    },
+    {
+      "column_level3": [
+        {
+          "id": "25",
+          "name": "奶瓶刷",
+          "pathname": "/static/uppic/works/2018-05-08/1525766680860338100.png"
+        },
+        {
+          "id": "26",
+          "name": "长柄刷",
+          "pathname": "/static/uppic/works/2018-05-08/1525766838270487200.png"
+        },
+        {
+          "id": "27",
+          "name": "海绵刷",
+          "pathname": "/static/uppic/works/2018-05-08/1525767036241182000.png"
+        },
+        {
+          "id": "2374",
+          "name": "伸缩杯刷",
+          "pathname": "/static/uppic/works/2018-07-25/1532483724167533900.jpg"
+        }
+      ],
+      "id": "24",
+      "name": "杯刷"
+    },
+    {
+      "column_level3": [
+        {
+          "id": "2417",
+          "name": "苍蝇拍",
+          "pathname": "/static/uppic/works/2018-09-18/1537246499107125900.jpg"
+        }
+      ],
+      "id": "28",
+      "name": "其他"
+    }
+  ]
+}

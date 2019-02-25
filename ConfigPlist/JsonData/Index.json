@@ -1,0 +1,428 @@
+{
+  "ad": [
+    {
+      "pathname": "/static/uppic/ad/2018-12-28/1545988604967596700.jpg",
+      "url": "https://www.tongcaigou.com/"
+    },
+    {
+      "pathname": "/static/uppic/ad/2018-11-28/1543370798970153500.jpg",
+      "url": "http://www.tongcaigou.com/news?id=6"
+    },
+    {
+      "pathname": "/static/uppic/ad/2018-09-28/1538116371588634100.jpg",
+      "url": "/program?id=1"
+    },
+    {
+      "pathname": "/static/uppic/ad/2018-10-17/1539763666569719500.jpg",
+      "url": "http://www.tongcaigou.com/?u=14"
+    }
+  ],
+  "block": "null",
+  "column": [
+    {
+      "id": "4",
+      "name": "婚庆系列",
+      "pathname": "/static/uppic/function/2018-08-31/1535682629663271200.jpg",
+      "pid": "3203,3224,3228,3229,3230,3231,3232,3233,3238,3245,3227,3471,3472,85,3242,3243,3244,3234,3204,3205,2640,2641,3235,3236,3237,53,3225,3226,3248,4407,4408,4409,3239,3240,3241,3473,4048"
+    },
+    {
+      "id": "3",
+      "name": "限时促销",
+      "pathname": "/static/uppic/function/2018-07-24/1532416130837434800.jpg",
+      "pid": "4097,4094,149,656,112,120,645,1876,2607,4758,4759,4760"
+    },
+    {
+      "id": "2",
+      "name": "清仓甩货",
+      "pathname": "/static/uppic/function/2018-10-17/1539763341971084400.jpg",
+      "pid": "4790,4791"
+    },
+    {
+      "id": "1",
+      "name": "一起来拼团",
+      "pathname": "/static/uppic/function/2018-09-28/1538114504533104700.jpg",
+      "pid": "4757,4715"
+    }
+  ],
+  "good": [
+    {
+      "pathname": "/static/images/201711/source_img/2449_G_1510870300305.JPG"
+    },
+    {
+      "pathname": "/static/images/201707/source_img/7_G_1500267577259.jpg"
+    }
+  ],
+  "mbuy": [
+    {
+      "pathname": "/static/images/201806/source_img/3852_G_1529112563743.jpg"
+    },
+    {
+      "pathname": "/static/images/201806/source_img/3841_G_1529111060381.jpg"
+    }
+  ],
+  "news": [
+    {
+      "id": "6",
+      "title": "招募令"
+    },
+    {
+      "id": "4",
+      "title": "统采商城2.0版上线啦"
+    },
+    {
+      "id": "2",
+      "title": "统采网络商城——最懂你的百货供应平台"
+    },
+    {
+      "id": "1",
+      "title": "敬启诸位"
+    }
+  ],
+  "product": [
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3951",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.40",
+      "pathname": "/static/images/201807/source_img/3951_G_1531702393092.jpg",
+      "price": "7.20",
+      "title": "广华久久小熊四连钩 8708"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3950",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "1.25",
+      "pathname": "/static/images/201807/source_img/3950_G_1531700706448.jpg",
+      "price": "3.75",
+      "title": "广华久久U形大号粘钩 8707"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3949",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.50",
+      "pathname": "/static/images/201807/source_img/3949_G_1531700365207.jpg",
+      "price": "7.50",
+      "title": "广华木质大号小蜜蜂粘钩 8214"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3948",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.90",
+      "pathname": "/static/images/201807/source_img/3948_G_1531700092231.jpg",
+      "price": "8.70",
+      "title": "广华木质小号小蜜蜂粘钩 8213"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3947",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.50",
+      "pathname": "/static/images/201807/source_img/3947_G_1531699670277.jpg",
+      "price": "7.50",
+      "title": "广华木质大号蛋形粘钩 8210"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3946",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.90",
+      "pathname": "/static/images/201807/source_img/3946_G_1531698989550.jpg",
+      "price": "8.70",
+      "title": "广华木质小号蛋形粘钩 8209"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3945",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.50",
+      "pathname": "/static/images/201807/source_img/3945_G_1531698711839.jpg",
+      "price": "7.50",
+      "title": "广华木质大号圆形粘钩 8206"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3944",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.60",
+      "pathname": "/static/images/201807/source_img/3944_G_1531337336211.jpg",
+      "price": "7.80",
+      "title": "广华小号不锈钢粘钩5个装 9116"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3943",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "3.90",
+      "pathname": "/static/images/201807/source_img/3943_G_1531337085966.jpg",
+      "price": "11.70",
+      "title": "广华久久球头四连钩 9150"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3942",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.80",
+      "pathname": "/static/images/201807/source_img/3942_G_1531336873266.jpg",
+      "price": "8.40",
+      "title": "广华久久卡通四连钩 9131"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3941",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.10",
+      "pathname": "/static/images/201807/source_img/3941_G_1531335941331.jpg",
+      "price": "6.30",
+      "title": "广华久久强力粘钩 9123"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3940",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "3.30",
+      "pathname": "/static/images/201807/source_img/3940_G_1531335429724.jpg",
+      "price": "9.90",
+      "title": "广华久久笑脸六连体粘钩 8897"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3939",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "1.20",
+      "pathname": "/static/images/201807/source_img/3939_G_1531333452290.jpg",
+      "price": "3.60",
+      "title": "广华中国结挂钩 8869"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3938",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "1.60",
+      "pathname": "/static/images/201807/source_img/3938_G_1531332860859.jpg",
+      "price": "4.80",
+      "title": "广华卡通三连体粘钩 8833"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3937",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.50",
+      "pathname": "/static/images/201807/source_img/3937_G_1531331998270.jpg",
+      "price": "7.50",
+      "title": "广华木质大号动物粘钩 8218"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3936",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.50",
+      "pathname": "/static/images/201807/source_img/3936_G_1531331167787.jpg",
+      "price": "7.50",
+      "title": "广华木质大号小猪小苗牛粘钩 8216"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3935",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.90",
+      "pathname": "/static/images/201807/source_img/3935_G_1531330555616.jpg",
+      "price": "8.70",
+      "title": "广华木质小号小猪小猫牛粘钩 8215"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3934",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.50",
+      "pathname": "/static/images/201807/source_img/3934_G_1531272624012.jpg",
+      "price": "7.50",
+      "title": "广华木质大号方形粘钩 8208"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3933",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.90",
+      "pathname": "/static/images/201807/source_img/3933_G_1531272061055.jpg",
+      "price": "8.70",
+      "title": "广华木质小号方形粘钩 8207"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "3932",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "2.90",
+      "pathname": "/static/images/201807/source_img/3932_G_1531271638805.jpg",
+      "price": "8.70",
+      "title": "广华木质小号圆形粘钩 8205"
+    }
+  ],
+  "recom": {
+    "pathname": "/static/images/201807/source_img/3950_G_1531700706448.jpg"
+  },
+  "recommend": [
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "2449",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "8.20",
+      "pathname": "/static/images/201711/source_img/2449_G_1510870300305.JPG",
+      "price": "24.60",
+      "title": "大鹏防静电鬃毛扫帚 3926"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "2442",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "5.50",
+      "pathname": "/static/images/201801/source_img/2442_G_1515375003413.jpg",
+      "price": "16.50",
+      "title": "大鹏密实袋（30个装） 3140"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "2296",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "7.40",
+      "pathname": "/static/images/201801/source_img/2296_G_1515545337205.jpg",
+      "price": "22.20",
+      "title": "大鹏魔梳灵动扫把 3902"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "2295",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "7.80",
+      "pathname": "/static/images/201801/source_img/2295_G_1515545921427.jpg",
+      "price": "23.40",
+      "title": "大鹏美丽扫旋转扫把 3912"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "2007",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "7.20",
+      "pathname": "/static/images/201801/source_img/2007_G_1515460598386.jpg",
+      "price": "21.60",
+      "title": "大鹏魔梳.耐美扫把 3901"
+    },
+    {
+      "active": 0,
+      "hp": "100",
+      "id": "1710",
+      "isvip": "1",
+      "keywords": [
+        "\u003cnil\u003e"
+      ],
+      "mprice": "24.50",
+      "pathname": "/static/images/201801/source_img/1710_G_1515547365357.jpg",
+      "price": "73.50",
+      "title": "大鹏锋洁对折式胶棉拖把 3998"
+    }
+  ],
+  "sysRcmd": true,
+  "uid": ""
+}

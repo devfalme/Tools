@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>id</key>
+		<string>4757</string>
+		<key>number</key>
+		<string>200</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-12-10/1544417052130329600.jpg</string>
+		<key>price</key>
+		<string>21.60</string>
+		<key>title</key>
+		<string>一起来拼团家萱家用手套2双装 JX-6412</string>
+	</dict>
+	<dict>
+		<key>id</key>
+		<string>4715</string>
+		<key>number</key>
+		<string>24</string>
+		<key>pathname</key>
+		<string>/static/uppic/function/2018-12-10/1544406457157632600.jpg</string>
+		<key>price</key>
+		<string>21.69</string>
+		<key>title</key>
+		<string>一起来拼团乐乐米时尚果盒 1901</string>
+	</dict>
+</array>
+</plist>
